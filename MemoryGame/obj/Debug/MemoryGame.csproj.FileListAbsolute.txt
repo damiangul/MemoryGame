@@ -1,0 +1,21 @@
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Form1.resources
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\damia\Desktop\Projekt NET\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\bin\Debug\Symbols.txt
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\damia\Desktop\Projekt NET testy\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGame.resources
